@@ -1,6 +1,6 @@
 <h1>DDoS</h1>
 <p>This Works For Ubuntu , Debain , Kali Linuix , Whonix ,Tails Os Or Anything That has a kernel</p>
-<p>This is a very powerful DDoS Tool<p>
+<p><u>This is a very powerful DDoS Tool And Its Very Safe</u><p>
 <hr>
 <h2>How To Install</h2>
 <p>To Install DDoS Tool type in the terminal</p>
@@ -11,4 +11,4 @@
 <p>2. Your responsiblty it is your fault if you cause damage</p>
 Thats it -_-
 <h4>Download Now</h4>
-<a href="https://github.com/S28667145/DDoS/archive/master.zip">Download DDoS Tool</a>
+<a href="https://github.com/S28667145/DDoS/archive/tool.zip">Download DDoS Tool</a>
