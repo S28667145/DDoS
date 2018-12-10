@@ -1,6 +1,6 @@
-<h1>DDoS</h1>
+<h1>Index/h1>
 <p>This Works For Ubuntu , Debain , Kali Linuix , Whonix ,Tails Os Or Anything That has a kernel</p>
-<p>This is a very powerful DDoS Tool<p>
+<p>This is a very powerful DDoS Tool And it hide your ip<p>
 <hr>
 <h2>How To Install</h2>
 <p>To Install DDoS Tool type in the terminal</p>
