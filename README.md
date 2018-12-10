@@ -1,6 +1,6 @@
 <h1>DDoS</h1>
-<p>Open Source Tool</p>
-<p>This is a very powerful DDoS Tool Use it on ure on risk<p>
+<p>This Works For Ubuntu , Debain , Kali Linuix , Whonix ,Tails Os Or Anything That has a kernel</p>
+<p>This is a very powerful DDoS Tool<p>
 <hr>
 <h2>How To Install</h2>
 <p>To Install DDoS Tool type in the terminal</p>
