@@ -1,4 +1,4 @@
-<h1>DDoS</h1>
+<h1>Index</h1>
 <p>This Works For Ubuntu , Debain , Kali Linuix , Whonix ,Tails Os Or Anything That has a kernel</p>
 <p><u>This is a very powerful DDoS Tool And Its Very Safe</u><p>
 <hr>
