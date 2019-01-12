@@ -6,3 +6,4 @@
 <b>Download Now</b>
 <hr>
 <a href="https://github.com/S28667145/DDoS/archive/master.zip">Download DDoS Tool</a>
+<b>This Is ONLY For Windows</b>
