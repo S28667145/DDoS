@@ -39,6 +39,13 @@
 <hr />
 
 <p><b>This Is ONLY For Windows</b></p>
+      <h2>Your IP Address Is</h2>
+      <hr>
+      <?php
+      $ip_address = $_SERVER ['REMOTE_ADDR'];
+      echo $ip_address;
+      
+      ?>
 
 
       
